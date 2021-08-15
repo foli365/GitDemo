@@ -5,6 +5,6 @@ public class Creeper{
 	public static int Modelheight = 3;
 	public boolean charged = true;
 	if(charged) {
-		BlastDamage * 2.71
+		BlastDamage * 2.71;
 	}
 }
